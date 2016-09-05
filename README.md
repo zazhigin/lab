@@ -1,2 +1,0 @@
-# lab
-Data Mining Lab
